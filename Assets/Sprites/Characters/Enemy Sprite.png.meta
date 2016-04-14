@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: e53d240d1f13141e886866170b9700f7
+timeCreated: 1456251832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy Sprite_0
+    21300002: Enemy Sprite_1
+    21300004: Enemy Sprite_2
+    21300006: Enemy Sprite_3
+    21300008: Enemy Sprite_4
+    21300010: Enemy Sprite_5
+    21300012: Enemy Sprite_6
+    21300014: Enemy Sprite_7
+    21300016: Enemy Sprite_8
+    21300018: Enemy Sprite_9
+    21300020: Enemy Sprite_10
+    21300022: Enemy Sprite_11
+    21300024: Enemy Sprite_12
+    21300026: Enemy Sprite_13
+    21300028: Enemy Sprite_14
+    21300030: Enemy Sprite_15
+    21300032: Enemy Sprite_16
+    21300034: Enemy Sprite_17
+    21300036: Enemy Sprite_18
+    21300038: Enemy Sprite_19
+    21300040: Enemy Sprite_20
+    21300042: Enemy Sprite_21
+    21300044: Enemy Sprite_22
+    21300046: Enemy Sprite_23
+    21300048: Enemy Sprite_24
+    21300050: Enemy Sprite_25
+    21300052: Enemy Sprite_26
+    21300054: Enemy Sprite_27
+    21300056: Enemy Sprite_28
+    21300058: Enemy Sprite_29
+    21300060: Enemy Sprite_30
+    21300062: Enemy Sprite_31
+    21300064: Enemy Sprite_32
+    21300066: Enemy Sprite_33
+    21300068: Enemy Sprite_34
+    21300070: Enemy Sprite_35
+    21300072: Enemy Sprite_36
+    21300074: Enemy Sprite_37
+    21300076: Enemy Sprite_38
+    21300078: Enemy Sprite_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 181
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 181
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 181
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 142
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 142
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 142
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 103
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -2, y: 16}
+        - {x: -14, y: 15}
+    - name: Enemy Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Enemy Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
